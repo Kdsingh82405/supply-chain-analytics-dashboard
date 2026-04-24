@@ -7,7 +7,11 @@ This project helps transform raw operational data into meaningful business insig
 ---
 
 ## 🌐 Live Demo
-https://supply-chain-analytics-dashboard-nmgjzycwemcfmn4wzwb52o.streamlit.app
+🔗 [Open Dashboard](https://supply-chain-analytics-dashboard-nmgjzycwemcfmn4wzwb52o.streamlit.app)
+
+## 📄 Research Paper
+**Customer, Product, and Profitability Performance Analysis in Supply Chain Operations**  
+🔗 [Read Published Paper](https://doi.org/10.5281/zenodo.19736530)
 
 ---
 
