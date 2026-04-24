@@ -7,7 +7,7 @@ This project helps transform raw operational data into meaningful business insig
 ---
 
 ## 🌐 Live Demo
-https://your-streamlit-link.streamlit.app
+[https://your-streamlit-link.streamlit.app](https://supply-chain-analytics-dashboard-nmgjzycwemcfmn4wzwb52o.streamlit.app/)
 
 ---
 
