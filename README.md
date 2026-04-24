@@ -1,4 +1,4 @@
-# 📊 APL Logistics Profitability Dashboard
+# 📊 Customer, Product, and Profitability Performance Analysis in Supply Chain Operations
 
 An interactive business intelligence dashboard developed using **Python, Streamlit, Pandas, and Plotly** to analyze customer profitability, product margins, discount impact, regional performance, and supply chain efficiency.
 
